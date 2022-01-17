@@ -1,0 +1,58 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_eb72f42c"
+  },
+  {
+    "name": "newlogin",
+    "path": "/newlogin",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\newlogin.vue",
+    "chunkName": "pages/newlogin",
+    "_name": "_c5a42a50"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_032ad2b2"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_ee62bf9c"
+  },
+  {
+    "name": "subscribe",
+    "path": "/subscribe",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\subscribe.vue",
+    "chunkName": "pages/subscribe",
+    "_name": "_155c3ecb"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_70c46ca1"
+  },
+  {
+    "name": "player-name",
+    "path": "/player/:name?",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\player\\\\_name.vue",
+    "chunkName": "pages/player/_name",
+    "_name": "_3b60cb6a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\pen\\\\Documents\\\\repos\\\\subscape\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7ec23a5a"
+  }
+]
